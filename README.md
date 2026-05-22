@@ -6,6 +6,7 @@
 *5to semestre · ITM – Institución Universitaria · Medellín, Colombia*
 
 [![Correo](https://img.shields.io/badge/Correo-mafe.palacio53@gmail.com-2C3E50?style=flat-square&logo=gmail&logoColor=white)](mailto:mafe.palacio53@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-María%20Fernanda%20Palacio-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/maria-fernanda-palacio-agudelo-5a22b91b1/)
 ![Ubicación](https://img.shields.io/badge/Medellín-Colombia-27AE60?style=flat-square&logo=googlemaps&logoColor=white)
 
 </div>
